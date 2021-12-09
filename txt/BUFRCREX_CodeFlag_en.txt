@@ -5350,6 +5350,12 @@ t25120,RA2-L2-processing flag,0,Percentage of DSRs free of processing errors dur
 040074,General interferometry quality flags,10,Telemetry package flag,,,,,Operational
 040074,General interferometry quality flags,11-15,Reserved,,,,,Operational
 040074,General interferometry quality flags,All 16,Missing value,,,,,Operational
+040075,Ocean product quality flag,1,Sea surface temperature not OK,,,,,Operational
+040075,Ocean product quality flag,2,Sea surface wind speed not OK,,,,,Operational
+040075,Ocean product quality flag,3,Atmospheric water vapour content not OK,,,,,Operational
+040075,Ocean product quality flag,4,Cloud liquid water content not OK,,,,,Operational
+040075,Ocean product quality flag,5-7,Reserved,,,,,Operational
+040075,Ocean product quality flag,All 8,Missing value,,,,,Operational
 042004,Confidence of inversion for each partition of swell wave spectra,0,Wave direction resolved,,,,,Operational
 042004,Confidence of inversion for each partition of swell wave spectra,1,180-degree ambiguity not resolved,,,,,Operational
 042004,Confidence of inversion for each partition of swell wave spectra,2-14,Reserved,,,,,Operational
